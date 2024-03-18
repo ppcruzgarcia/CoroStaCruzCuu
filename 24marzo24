@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITIO DE CANTOS Y AUDIOS CORO STA CRUZ </title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>DOMINGO 17 MARZO 2024</h1>
+    </header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="semanas.html">Semanas</a></li>
+        <!-- Agrega más enlaces aquí si lo necesitas -->
+    </ul>
+</nav>
+
+    <main>
+        <section>
+            <h2>CANTOS</h2>
+            <div class="content">
+        <table>
+            <tr>
+                <th>MOMENTO</th>
+		<th>CANTO</th>
+                <th>DOCUMENTO</th>
+		<th>AUDIO</th>
+			
+            </tr>
+            <tr>
+                <td><strong style="color: blue;">ENTRADA</strong></td>
+		<td>DIOS ES FIEL</td>
+                <td><a href="https://drive.google.com/file/d/1Dopn5PEWdvi4li_2-MjYWVdeKotMHhqX/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1Zsn5O_YnmmztxEfHcodeODK3lYHUA0wi/view?usp=drive_link" target="_blank">AUDIO</a></td>
+
+            </tr>
+            <tr>
+		<td><strong style="color: blue;">PIEDAD</strong></td>
+                <td>SEÑOR TEN PIEDAD</td>
+                <td><a href="https://drive.google.com/file/d/1DFVhehIFns2SAHGAooNlXEHoL8RhnsfV/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1-SoNzSOIg64qtBIL9622YhVcUXNl5erx/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>
+            <tr>
+		<td><strong style="color: blue;">SALMO</strong></td>
+                <td>SALMO</td>
+                <td><a href="https://drive.google.com/file/d/1-SoNzSOIg64qtBIL9622YhVcUXNl5erx/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1-SoNzSOIg64qtBIL9622YhVcUXNl5erx/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>
+
+		
+            <tr>
+		<td><strong style="color: blue;">ALELUYA</strong></td>
+                <td>HONOR Y GLORIA</td>
+                <td><a href="https://drive.google.com/file/d/1HQhRIdlavIfo2qYFJvVTOL4yURAfBLnA/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1-SoNzSOIg64qtBIL9622YhVcUXNl5erx/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>
+	    <tr>
+		<td><strong style="color: blue;">OFERTORIO</strong></td>
+                <td>PADRE RECIBE</td>
+                <td><a href="https://drive.google.com/file/d/1AmQ3AZ5UllbCkWGA11HwtulhAspSfyqK/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1-SoNzSOIg64qtBIL9622YhVcUXNl5erx/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>
+	   <tr>
+		<td><strong style="color: blue;">SANTO</strong></td>
+                <td>SANTO</td>
+                <td><a href="https://drive.google.com/file/d/115NI5nq6V_cqPxgWhXgaok59OWyaF4fa/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1tm12CCJ2ZwymhaCrSri3LRdaUqnECs4a/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>	
+            <tr>
+		<td><strong style="color: blue;">CORDERO</strong></td>
+                <td>CORDERO</td>
+                <td><a href="https://drive.google.com/file/d/1empzHBdBz8my_saCLB-K5n9oLvW9Zrst/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1-SoNzSOIg64qtBIL9622YhVcUXNl5erx/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>	
+            <tr>
+		<td><strong style="color: blue;">COMUNION</strong></td>
+                <td>SHEMA ISRAEL</td>
+                <td><a href="https://drive.google.com/file/d/1Npjd_qoCorn_64sk5-YSHRFf2bOcS4gP/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/16K1og5A3nABlMgwkTw4Rt_Ln2bkAQPcX/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>	
+	    <tr>
+		<td><strong style="color: blue;">SALIDA</strong></td>
+                <td>SAN JOSE</td>
+                <td><a href="https://drive.google.com/file/d/1ZbF4DNoHyr5Ew6l_mhhbmzgnr0Oy4t-L/view?usp=drive_link" target="_blank">PDF</a></td>
+                <td><a href="https://drive.google.com/file/d/1CgV-5pDh0vZ2ugFr9CWWAxhQS_Bbczmn/view?usp=drive_link" target="_blank">AUDIO</a></td>
+	    </tr>		
+	</table>
+
+        </section>
+       </main>
+    <footer>
+        <p>© 2024 Mi Sitio de Documentos y Audios</p>
+    </footer>
+</body>
+</html>
